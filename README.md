@@ -10,3 +10,6 @@ In the beginning of the program user has to write the number of the baskets it w
  - Reverse the Basket List
  - Reverse the Balls
  - Quit
+
+Partners:
+https://github.com/HuseyinHira
